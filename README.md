@@ -1,10 +1,9 @@
-# 📚 Book Recommendation System
+# Book Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommender%20System-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Overview
 
@@ -307,79 +306,20 @@ Measures average prediction deviation.
 
 ## 📁 Project Structure
 
-```text
-Book-Recommendation-System/
-│
-├── data/
-│   ├── Books.csv
-│   ├── Users.csv
-│   └── Ratings.csv
-│
-├── notebooks/
-│   └── EDA_and_Modeling.ipynb
-│
-├── models/
-│   ├── popularity_model.pkl
-│   ├── content_based_model.pkl
-│   └── collaborative_model.pkl
-│
-├── images/
-│   └── recommendation_architecture.png
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── recommendation.py
-│   └── evaluation.py
-│
-├── requirements.txt
-├── README.md
-└── app.py
 ```
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/book-recommendation-system.git
-
-cd book-recommendation-system
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-Run the recommendation system:
-
-```bash
-python app.py
-```
-
-Example:
-
-```python
-recommend_books("Harry Potter and the Sorcerer's Stone")
-```
-
-Output:
-
-```text
-Recommended Books:
-
-1. Harry Potter and the Chamber of Secrets
-2. Harry Potter and the Prisoner of Azkaban
-3. The Hobbit
-4. The Golden Compass
-5. The Chronicles of Narnia
+Book Recommendation System/
+│
+├── 📁 Dataset/
+│   ├── Dataset Description.docx
+│   └── LoyaltyVision Analytics Dataset.xlsx
+│
+├── 📁 Final Report/
+│   └── Final Report.pdf
+|
+├── 📁 Notebook/
+│   └── Book Recommendation System.ipynb
+|
+└── 📁 README.md
 ```
 
 ---
@@ -416,18 +356,19 @@ The recommendation system successfully:
 
 ---
 
-## 👨‍💻 Author
+## 🤝🏿 **Contributing**
 
-**[Your Name]**
+This project represents my personal learning in Data Science. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on data science projects.
 
-Data Science & Machine Learning Project
+## 📧 **Contact**
+
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
 
 ---
-
-## ⭐ If you found this project useful, please consider giving it a star!
