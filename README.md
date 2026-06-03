@@ -310,8 +310,10 @@ Measures average prediction deviation.
 Book Recommendation System/
 │
 ├── 📁 Dataset/
-│   ├── Dataset Description.docx
-│   └── LoyaltyVision Analytics Dataset.xlsx
+│   ├── Books.Zip
+|   ├── Ratings.csv
+|   ├── Users.csv
+│   └── recsus_taxonomy2.png
 │
 ├── 📁 Final Report/
 │   └── Final Report.pdf
